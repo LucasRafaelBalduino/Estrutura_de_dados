@@ -79,7 +79,7 @@ int main()
 		case 2:
 			dequeue();
 			break;
-		case3:
+		case 3:
 			Lista_Elemento();
 			break;
 		case 4:
